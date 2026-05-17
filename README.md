@@ -6,3 +6,5 @@ Penetration Testing Distribution
 
 Spenetration Linux is an open-source, Alpine-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 There is no iso its a do it yourself
+
+Latest version Spenetration Linux v3.23
