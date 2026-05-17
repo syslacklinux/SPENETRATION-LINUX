@@ -42,3 +42,5 @@ To Welcome To Spenetration!
                                         Kernel \r on \m (\l)            Kernel \r on \m (\l)
 
 11 Install some penetration apps doas apk add nmap hydra john wireshark
+
+12 Run doas apk add fortune bsd-games nethack
