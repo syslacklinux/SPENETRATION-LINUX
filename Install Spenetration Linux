@@ -21,8 +21,7 @@
   VERSION_ID=3.23.4
   PRETTY_NAME="Spenetration Linux v3.23"
   HOME_URL="https://github.com/syslacklinux/SPENETRATION-LINUX"
-  BUG_REPORT_URL="https://gitlab.alpinelinux.org/alpine/aports/-/issues"
-
+ 
   
 9 Run doas nano /etc/motd then change Welcome to Alpine!
 
