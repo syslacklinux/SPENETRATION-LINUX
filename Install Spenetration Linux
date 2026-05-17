@@ -2,7 +2,7 @@
 2 Flash iso
 3 Enter to live environment
 4 Login as root then run setup-alpine then setup alpine linux first
-5 When on APK Mirror type c and f
+5 When on APK Mirror type c and f on disk & install How would you like to use it spenetration require crypt and sys
 6 After install login then run doas apk add nano
 7 If you are on GRUB run doas nano /etc/default/grub then change GRUB_TIMEOUT=2 to GRUB_TIMEOUT=5 Then change GRUB_DISABLE_RECOVERY=true to GRUB_DISABLE_RECOVERY=false
   Then remove quiet from GRUB_CMDLINE_LINUX_DEFAULT="modules=sd-mod,usb-storage,ext4,bootpartition quiet rootfstype=ext4" to GRUB_CMDLINE_LINUX_DEFAULT="modules=sd-mod,usb-storage,ext4,bootpartition rootfstype=ext4"
@@ -41,3 +41,4 @@ To Welcome To Spenetration Linux
 
 10 Run doas nano /etc/issue then change Welcome to Alpine Linux 3.23 To Welcome to Spenetration Linux 3.23
                                         Kernel \r on \m (\l)            Kernel \r on \m (\l)
+
