@@ -41,3 +41,4 @@ To Welcome To Spenetration!
 10 Run doas nano /etc/issue then change Welcome to Alpine Linux 3.23 To Welcome to Spenetration Linux 3.23
                                         Kernel \r on \m (\l)            Kernel \r on \m (\l)
 
+11 Install some penetration apps doas apk add nmap hydra john wireshark
