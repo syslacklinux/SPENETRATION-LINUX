@@ -23,20 +23,7 @@
   HOME_URL="https://github.com/syslacklinux/SPENETRATION-LINUX"
  
   
-9 Run doas nano /etc/motd then change Welcome to Alpine!
-
-The Alpine Wiki contains a large amount of how-to guides and general
-information about administrating Alpine systems.
-See <https://wiki.alpinelinux.org/>.
-
-You can setup the system with the command: setup-alpine
-
-You may change this message by editing /etc/motd.
-
-To Welcome To Spenetration!
-
-   The most advanced Penetration Testing Distribution
-   Spenetration Linux is an open-source, Alpine-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+9 Run doas rm /etc/motd
 
 10 Run doas nano /etc/issue then change Welcome to Alpine Linux 3.23 To Welcome to Spenetration Linux 3.23
                                         Kernel \r on \m (\l)            Kernel \r on \m (\l)
